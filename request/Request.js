@@ -1,4 +1,4 @@
-class Api {
+class Request {
   constructor (url = '') {
     this.url = url
     this.headers = []
